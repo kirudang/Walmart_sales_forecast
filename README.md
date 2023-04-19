@@ -22,7 +22,7 @@ This project is to forecast sales for Walmart superstore using time series analy
 
 ### Data
 
-The author attached the data file in the repository. It was retrieved from Kaggle at: https://www.kaggle.com/datasets/juhi1994/superstore![image](https://user-images.githubusercontent.com/91911269/233194630-f2591d4d-de1d-41e9-87fc-9200c51e099a.png)
+The author attached the data file in the repository. It was retrieved from Kaggle at: [https://www.kaggle.com/datasets/juhi1994/superstore
 
 ### Performance
 ![download](https://user-images.githubusercontent.com/91911269/233193537-c8af8922-d348-4794-93de-1a11a7cc1848.png)
